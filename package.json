@@ -1,6 +1,6 @@
 {
   "name": "hide-protected-properties",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Hide properties of a class/instance that start with an underline, which are often seemed as protected or private.",
   "main": "index.js",
   "types": "index.d.ts",
